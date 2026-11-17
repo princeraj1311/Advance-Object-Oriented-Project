@@ -1,0 +1,6 @@
+#CineSmart-Users-v1
+admin|CineSmart Admin|admin@cinesmart.in|9000000001|Bengaluru|bcd61121ef0b55ca|a4b99eab70464932cce9219b0eecbec46fd79623e63a03921bac73c1f3e4fe88|false|false|Admin|EMP-101|630985580130
+demo|Demo Customer|demo@cinesmart.in|9000000002|Bengaluru|e4d2fbd400eac9b0|6b727db406ed91974fb35e5b084e6f6ca904354baef479b8c26f241794737af2|false|false|Customer|false|Customer|false
+prince|Prince  Raj|1106@gmail.com|9870564323|Bengaluru|e3df596c1bd1bc40|c7c2979c404a17164430d3b1b186a7e6dca218909841c7aceb086e4d7b841c52|false|false|Customer|false|Customer|false
+princeraj|Prince Raj|1106pr@gmail.com|9939225069|Chennai|ebc8d388936a8a34|ed24995131b430ec0244c36ae9b181e177f6b6c872f56352eb63bc89d876792d|false|false|Customer|false|Customer|Couple/Adjacent Seats
+mayank|Mayank Mishra|mayvmsasp07@gmail.com|6386856212|Chennai|046359d6e54b412f|1327222f5ba9cbd922a10af715ef7e56030cedf95ab2bd5fad3b2823b1c2e11d|LEGACY_USERNAME_PASSWORD|false|Customer|2007-03-02|Male|Near Center

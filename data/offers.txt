@@ -1,0 +1,9 @@
+#CineSmart-Offers-v1
+OFF01|FIRST50|Flat Rs 50 off your first booking|New to CineSmart? Take Rs 50 off any booking above Rs 300.|FLAT|50|300|0||2027-03-16|ANY||
+OFF02|CINE20|20% off, up to Rs 200|The everyday offer: a fifth off every booking, capped so a long film stays cheap.|PERCENT|20|500|200||2027-01-15|TICKETS||
+OFF03|SNACK75|Flat Rs 75 off at the food counter|Popcorn is better when it is discounted. Valid on food orders above Rs 400.|FLAT|75|400|0||2026-12-31|FOOD||
+OFF04|KOCHI100|Rs 100 off in Kochi|A local offer for the Kochi halls only.|FLAT|100|400|0|Kochi|2026-12-16|ANY||
+OFF05|WEEKEND15|15% off weekend shows|A fifteenth off, capped at Rs 150, on any booking.|PERCENT|15|600|150||2027-02-14|TICKETS||
+OFF06|BIGSCREEN30|Flat Rs 30 off IMAX and 4DX|A small thank you for the big screens.|FLAT|30|250|0||2027-01-30|TICKETS||
+OFF07|COMBO200|Rs 200 off a ticket and a snack|Our best saving when the food is ordered together with the ticket.|FLAT|200|900|0||2026-12-07|ANY||
+OFF08|EXPIRED50|Flat Rs 50 off (ended)|This code ran last month and is kept to show the expiry rule working.|FLAT|50|300|0||2026-11-11|ANY||

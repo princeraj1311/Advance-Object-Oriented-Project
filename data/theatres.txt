@@ -1,0 +1,11 @@
+#CineSmart-Theatres-v1
+T001|PVR Phoenix Marketcity|Bengaluru|Whitefield|6|240|Dolby Atmos, Recliner seats, Food court|12.995743|77.757949
+T002|PVR Orion|Bengaluru|Koramangala|5|210|Dolby 7.1, Cafe, Parking|12.935737|77.624081
+T003|Sathyam Cinemas|Chennai|Thousand Lights|4|190|Premium seating, Parking|13.058516|80.258783
+T004|AMB Theatre|Hyderabad|Banjara Hills|7|260|IMAX, 4DX, Recliner seats|17.417746|78.439901
+T005|INOX Phoenix|Mumbai|Lower Parel|8|320|IMAX, Lounge access, Food court|18.995680|72.830276
+T006|Carnival Cinemas|Mumbai|Andheri West|5|180|Dolby 7.1, Cafe|19.117250|72.833968
+T007|Director Cut Cinema|Delhi NCR|Saket|6|280|Dolby Atmos, Recliner seats|28.523490|77.209631
+T008|Q Cinemas|Kochi|Marine Drive|4|200|4DX, Food court|9.978478|76.275773
+T009|PVR Bund Garden|Pune|Kalyani Nagar|5|220|Dolby 7.1, Cafe|18.548138|73.902551
+T010|INOX Quest|Kolkata|Cambridge Gate|6|230|IMAX, Lounge access|22.543283|88.352087

@@ -1,0 +1,33 @@
+#CineSmart-OSM-Cinemas-v1
+way_347144975|Bengaluru|Abhinaya Theater||12.973605|77.5775709|https://www.openstreetmap.org/way/347144975
+way_400478705|Bengaluru|Ajantha Theatre||12.9828949|77.6145101|https://www.openstreetmap.org/way/400478705
+way_673959400|Bengaluru|Anand Theater||13.0099785|77.610202|https://www.openstreetmap.org/way/673959400
+way_347146270|Bengaluru|Anupama Theatre|Subedar Chatram Road, Gandhi Nagar|12.9761597|77.5753513|https://www.openstreetmap.org/way/347146270
+node_4373454389|Chennai|abirami mega mall||13.0862888|80.2481075|https://www.openstreetmap.org/node/4373454389
+way_217864763|Chennai|Agasthya Theatre||13.1244061|80.2895768|https://www.openstreetmap.org/way/217864763
+node_6297571205|Chennai|AGS Cinemas (T Nagar)|T Nagar, Chennai|13.0474821|80.2450469|https://www.openstreetmap.org/node/6297571205
+way_217928914|Chennai|AGS Cinemas - Villivakkam|Mettu St|13.1046717|80.2091622|https://www.openstreetmap.org/way/217928914
+node_10789422583|Hyderabad|AAA Cinemas|Ameerpet|17.4371929|78.448703|https://www.openstreetmap.org/node/10789422583
+node_9660169817|Hyderabad|ALLU Studios||17.3882767|78.344712|https://www.openstreetmap.org/node/9660169817
+way_116019626|Hyderabad|Amaravathi||17.404956|78.4632511|https://www.openstreetmap.org/way/116019626
+node_6771713703|Hyderabad|AMB Cinemas||17.457321|78.3634764|https://www.openstreetmap.org/node/6771713703
+way_359780138|Mumbai|Akash Theater||19.0669825|72.87871|https://www.openstreetmap.org/way/359780138
+node_4844717822|Mumbai|Alankar||18.9580205|72.8254129|https://www.openstreetmap.org/node/4844717822
+node_619377234|Mumbai|Alfred Talkies||18.9615152|72.8231708|https://www.openstreetmap.org/node/619377234
+node_11505841495|Mumbai|Anand Talkies||19.1845794|72.9749431|https://www.openstreetmap.org/node/11505841495
+node_14074102173|Delhi NCR|Albert Ekka Institute|Manekshaw Marg, Delhi Cantt|28.5951006|77.1328015|https://www.openstreetmap.org/node/14074102173
+way_259036524|Delhi NCR|Amba Cinema||28.6771727|77.2007871|https://www.openstreetmap.org/way/259036524
+node_3012906378|Delhi NCR|Batra Cinema|Mukhrejee Nagar, Delhi|28.7117187|77.2155308|https://www.openstreetmap.org/node/3012906378
+node_2069359770|Delhi NCR|BIG Ansals||28.6449711|77.3327059|https://www.openstreetmap.org/node/2069359770
+node_2391343058|Kochi|Ajantha Theaters||9.9538714|76.2474584|https://www.openstreetmap.org/node/2391343058
+node_14071793059|Kochi|Ashirvad Cinemas||9.8722042|76.4865694|https://www.openstreetmap.org/node/14071793059
+way_774620702|Kochi|Casino Theatre|Aluva-Perumbavoor Road|10.1066134|76.3632728|https://www.openstreetmap.org/way/774620702
+way_797851193|Kochi|Central Talkies|NH85|9.948816|76.3478416|https://www.openstreetmap.org/way/797851193
+node_1714023640|Pune|Abhiruchi City Pride|Pune|18.462949|73.8165301|https://www.openstreetmap.org/node/1714023640
+way_107173244|Pune|Alankar Cinema||18.5287554|73.8765896|https://www.openstreetmap.org/way/107173244
+way_215998827|Pune|Alka Talkies||18.5122054|73.8433403|https://www.openstreetmap.org/way/215998827
+way_180528252|Pune|Apollo||18.5197517|73.8645708|https://www.openstreetmap.org/way/180528252
+node_3365872348|Kolkata|Ajanta Cinema||22.5081116|88.3202281|https://www.openstreetmap.org/node/3365872348
+node_1894661828|Kolkata|Ashoka cinema hall|Diamond harbour road|22.4937528|88.3165888|https://www.openstreetmap.org/node/1894661828
+node_9979159017|Kolkata|Atindra Multiplex|91, Ghosh para road|22.7640201|88.3698016|https://www.openstreetmap.org/node/9979159017
+way_175777380|Kolkata|Basusree||22.5225821|88.3463114|https://www.openstreetmap.org/way/175777380

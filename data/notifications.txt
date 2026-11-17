@@ -1,0 +1,6 @@
+#CineSmart-Notifications-v1
+N2026111623212777|prince|BOOKING_CONFIRMED|Booking confirmed: The Dark Knight at Sathyam Cinemas, Tomorrow at 10:00 am. Seats: E6, E7, F6, F7. Booking ID: CS20261116232105. Amount: Rs 760.|false|2026-11-16 23:21
+N2026111700504037|princeraj|BOOKING_CONFIRMED|Booking confirmed: Pulp Fiction at Sathyam Cinemas, Today at 9:00 AM - 12:00 PM. Seats: F6, F7, G6, G7. Booking ID: CS20261117005005. Amount: Rs 880.|false|2026-11-17 00:50
+N2026111700541803|princeraj|BOOKING_CONFIRMED|Booking confirmed: Inception at Sathyam Cinemas, Today at 9:00 AM - 12:00 PM. Seats: F6, F7, G6, G7. Booking ID: CS20261117005310. Amount: Rs 880.|false|2026-11-17 00:54
+N2026111700543729|princeraj|BOOKING_CANCELLED|Booking cancelled: Inception. Seats released: F6, F7, G6, G7. Booking ID: CS20261117005310. Refund: Rs 880.|false|2026-11-17 00:54
+N2026111708204471|princeraj|BOOKING_CONFIRMED|Booking confirmed: Inception at Sathyam Cinemas, Today at 2:30 PM - 5:00 PM. Seats: F6, F7, G6, G7. Booking ID: CS20261117082005. Amount: Rs 880.|false|2026-11-17 08:20

@@ -1,0 +1,104 @@
+#CineSmart-Canteen-v1
+PVR01|T001|Salted Butter Popcorn (Large)|Popcorn|340|true
+PVR02|T001|Cheese Burst Popcorn (Large)|Popcorn|380|true
+PVR03|T001|Caramel Popcorn (Large)|Popcorn|360|true
+PVR04|T001|Masala Peanuts|Snacks|90|true
+PVR05|T001|Cheese Nachos with Salsa|Snacks|320|true
+PVR06|T001|Peri Peri French Fries|Snacks|260|true
+PVR07|T001|Chicken Tikka Sandwich|Snacks|340|false
+PVR08|T001|Cold Coffee|Beverages|180|true
+PVR09|T001|Masala Chai|Beverages|90|true
+PVR10|T001|Fresh Lime Soda|Beverages|150|true
+PVR11|T001|Choco Brownie|Desserts|180|true
+PVR12|T001|Popcorn + 2 Cold Coffees|Combos|620|true
+ORION1|T002|Extra Large Popcorn|Popcorn|380|true
+ORION2|T002|Truffle Popcorn|Popcorn|450|true
+ORION3|T002|Burnt Butter Popcorn|Popcorn|340|true
+ORION4|T002|Cold Brew Coffee|Beverages|220|true
+ORION5|T002|Blueberry Smoothie|Beverages|260|true
+ORION6|T002|Masala Chai|Beverages|90|true
+ORION7|T002|Paneer Tikka Roll|Snacks|290|true
+ORION8|T002|Chicken Cheese Roll|Snacks|320|false
+ORION9|T002|Salted Fries|Snacks|230|true
+ORION10|T002|Belgian Chocolate Waffle|Desserts|280|true
+ORION11|T002|Truffle Popcorn + Cold Brew|Combos|640|true
+SAT01|T003|Buttered Popcorn|Popcorn|260|true
+SAT02|T003|Pepper Corn Popcorn|Popcorn|290|true
+SAT03|T003|Filter Coffee|Beverages|70|true
+SAT04|T003|Badam Milk|Beverages|90|true
+SAT05|T003|Fresh Lime Juice|Beverages|120|true
+SAT06|T003|Idli Fries|Snacks|180|true
+SAT07|T003|Veg Samosa (2 pcs)|Snacks|140|true
+SAT08|T003|Chicken 65|Snacks|320|false
+SAT09|T003|Mysore Pak|Desserts|150|true
+SAT10|T003|Popcorn + Filter Coffee|Combos|310|true
+AMB01|T004|Large Popcorn|Popcorn|330|true
+AMB02|T004|Cheese Corn Popcorn|Popcorn|370|true
+AMB03|T004|4DX Nachos Combo|Snacks|420|true
+AMB04|T004|Chicken Popcorn|Snacks|390|false
+AMB05|T004|Momos (Steamed)|Snacks|200|true
+AMB06|T004|Masala Chai|Beverages|80|true
+AMB07|T004|Fresh Lime Soda|Beverages|140|true
+AMB08|T004|Oreo Shake|Beverages|230|true
+AMB09|T004|Chocolate Muffin|Desserts|170|true
+AMB10|T004|Popcorn + 2 Beverages|Combos|580|true
+INOX01|T005|Lounge Popcorn (Large)|Popcorn|420|true
+INOX02|T005|Lobster Popcorn|Popcorn|520|false
+INOX03|T005|Garlic Bread|Snacks|260|true
+INOX04|T005|Chicken Wings|Snacks|480|false
+INOX05|T005|Paneer Tikka Puff|Snacks|230|true
+INOX06|T005|Single Malt Shake|Beverages|320|true
+INOX07|T005|Espresso Coffee|Beverages|180|true
+INOX08|T005|Fresh Lime Soda|Beverages|160|true
+INOX09|T005|Belgian Waffle|Desserts|300|true
+INOX10|T005|Lounge Dinner Combo|Combos|980|false
+CAR01|T006|Regular Popcorn|Popcorn|250|true
+CAR02|T006|Caramel Popcorn|Popcorn|290|true
+CAR03|T006|Salted French Fries|Snacks|200|true
+CAR04|T006|Veg Burger|Snacks|250|true
+CAR05|T006|Chicken Burger|Snacks|290|false
+CAR06|T006|Masala Chai|Beverages|70|true
+CAR07|T006|Fresh Lime Soda|Beverages|130|true
+CAR08|T006|Lemon Iced Tea|Beverages|150|true
+CAR09|T006|Chocolate Cookies|Desserts|140|true
+CAR10|T006|Popcorn + Iced Tea|Combos|370|true
+DIR01|T007|Director's Cut Popcorn|Popcorn|360|true
+DIR02|T007|Truffle Parmesan Popcorn|Popcorn|430|true
+DIR03|T007|Paneer Tikka Sandwich|Snacks|300|true
+DIR04|T007|Chicken Seekh Kebab|Snacks|420|false
+DIR05|T007|Chilli Garlic Fries|Snacks|270|true
+DIR06|T007|Masala Chai|Beverages|90|true
+DIR07|T007|Cold Coffee|Beverages|190|true
+DIR08|T007|Fresh Lime Soda|Beverages|150|true
+DIR09|T007|Chocolate Brownie|Desserts|190|true
+DIR10|T007|Popcorn + Cold Coffee|Combos|510|true
+QCIN01|T008|Popcorn (Regular)|Popcorn|240|true
+QCIN02|T008|Popcorn (Large)|Popcorn|300|true
+QCIN03|T008|Chicken Popcorn|Popcorn|370|false
+QCIN04|T008|Beef Empanada|Snacks|220|false
+QCIN05|T008|Paneer Roll|Snacks|180|true
+QCIN06|T008|Tea|Beverages|50|true
+QCIN07|T008|Fresh Lime Soda|Beverages|120|true
+QCIN08|T008|Cold Coffee|Beverages|170|true
+QCIN09|T008|Unniappam|Desserts|110|true
+QCIN10|T008|Popcorn + Tea|Combos|280|true
+BUN01|T009|Popcorn (Regular)|Popcorn|250|true
+BUN02|T009|Cheese Popcorn|Popcorn|310|true
+BUN03|T009|Vada Pav (2 pcs)|Snacks|120|true
+BUN04|T009|Misal Pav|Snacks|180|true
+BUN05|T009|Paneer Momos|Snacks|200|true
+BUN06|T009|Masala Chai|Beverages|70|true
+BUN07|T009|Fresh Lime Soda|Beverages|130|true
+BUN08|T009|Buttermilk|Beverages|60|true
+BUN09|T009|Ice Cream Tub|Desserts|150|true
+BUN10|T009|Popcorn + Chai|Combos|310|true
+QU01|T010|Popcorn (Large)|Popcorn|300|true
+QU02|T010|Truffle Popcorn|Popcorn|390|true
+QU03|T010|Kathi Roll|Snacks|220|false
+QU04|T010|Veg Frankie|Snacks|190|true
+QU05|T010|Chilli Garlic Fries|Snacks|230|true
+QU06|T010|Masala Chai|Beverages|60|true
+QU07|T010|Fresh Lime Soda|Beverages|120|true
+QU08|T010|Cold Coffee|Beverages|160|true
+QU09|T010|Mishti Doi|Desserts|110|true
+QU10|T010|Popcorn + Cold Coffee|Combos|430|true
